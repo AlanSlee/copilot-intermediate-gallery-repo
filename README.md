@@ -69,5 +69,4 @@ src/
 ├── app/                 # Next.js 15 App Router pages
 ├── components/          # Reusable React components
 ├── lib/                 # Utility functions and helpers
-demos/                   # Demo guides and templates
-```
+demos/                   # Demo guides and templates/help
